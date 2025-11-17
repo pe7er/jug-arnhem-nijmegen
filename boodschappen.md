@@ -1,7 +1,7 @@
 # Boodschappen
 
 ## Jumbo
-- hagelslag
+- kokosbrood
 - boter
 
 ## Markt
