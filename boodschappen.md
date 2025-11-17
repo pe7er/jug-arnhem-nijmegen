@@ -2,6 +2,8 @@
 
 ## Jumbo
 - aardbeienjam
+- Pindakaas
+- kokosbrood
 - boter
 
 ## Markt
