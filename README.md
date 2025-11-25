@@ -1,4 +1,4 @@
-# jug-arnhem-nijmegen
+# Boodschappenlijstje
 Dit is een voorbeeld van hoe je met git kunt werken,
 speciaal voor 
 - Joomla User Group Arnhem-Nijmegen, en
