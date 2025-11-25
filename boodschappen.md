@@ -4,7 +4,7 @@
 - [ ] aardbeienjam
 - [ ] Pindakaas
 - [ ] kokosbrood
-- [ ] boter
+- [ ] margarine
 
 ## Markt
 - [ ] kaas
@@ -15,3 +15,4 @@
   
 ## Oven
 - [ ] 200 graden
+ - [ test 
