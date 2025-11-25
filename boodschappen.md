@@ -1,10 +1,12 @@
-# Boodschappen
+# Boodschappen voor feestje!
 
 ## Jumbo
 - [ ] aardbeienjam
 - [ ] Pindakaas
 - [ ] kokosbrood
-- [ ] margarine
+- [ ] margarine en boter
+- [ ] bier (hertog jan)
+- [ ] alcoholvrij bier (VanDeStreek)
 
 ## Markt
 - [ ] kaas
@@ -15,4 +17,4 @@
   
 ## Oven
 - [ ] 200 graden
- - [ test 
+
